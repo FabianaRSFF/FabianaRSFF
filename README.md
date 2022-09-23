@@ -1,8 +1,6 @@
 ### Hi there 👋 I'm Fabiana in the Blue Baloon 🌎
 
 
-
-- 🔭 I’m currently working on 
 - 🌱 I’m currently learning Django REST framework
 - 😄 Pronouns: ...ela/she
 
