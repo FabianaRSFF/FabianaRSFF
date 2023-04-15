@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Fabiana in the Blue Baloon 🌎
+### Hi there 👋 I'm Fabiana on the Blue Baloon 🌎
 
 
 - 🌱 I’m currently learning Django REST framework
