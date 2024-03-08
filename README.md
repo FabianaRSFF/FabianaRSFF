@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Fabiana on the Blue Baloon 🌎
 
 
-- 🌱 I’m currently learning JavaScript
+- 🌱I'm currently learning JavaScript on FreeCodeCamp 🔥
 - 😄 Pronouns: ...ela/she
 
 
